@@ -1,0 +1,27 @@
+# Octave / MATLAB
+*.asv
+*.m~
+octave-workspace
+
+# LaTeX (si generas informes en .tex)
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.swp
+
+# GiD (archivos temporales de proyecto)
+*.gid/tmp/
+*.gid/*.bch
+*.gid/*.err
+
+# Salidas grandes (ajusta según necesites versionar resultados)
+*.mat
