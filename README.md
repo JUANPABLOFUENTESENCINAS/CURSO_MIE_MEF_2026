@@ -10,15 +10,15 @@ Contiene el desarrollo teórico-práctico del curso: deducciones, código propio
 
 | Carpeta | Unidad(es) | Contenido |
 |---|---|---|
-| [`U1_mecanica_medio_continuo/`](U1_mecanica_medio_continuo/) | U1 | Cinemática, tensión, deformación, elasticidad lineal, PTV. Actividad 1. |
-| [`U2_algebra_matricial_octave/`](U2_algebra_matricial_octave/) | U2 | Álgebra matricial, sistemas Ax=b, integración numérica, primeros programas en Octave. |
-| [`U3_ame_cerchas/`](U3_ame_cerchas/) | U3 | Análisis Matricial de Estructuras (AME), cercha plana en Octave. Actividad 2. |
-| [`U4_residuos_ponderados_poisson/`](U4_residuos_ponderados_poisson/) | U4 | Ecuación de Poisson, método de residuos ponderados (Galerkin). Actividad 3. |
-| [`U5_barra_1d_ptv/`](U5_barra_1d_ptv/) | U5 | Elemento finito 1D a partir del PTV, barra axial, convergencia. |
-| [`U6_cst_q4/`](U6_cst_q4/) | U6 | Elementos CST (triangular) y Q4 (rectangular). Actividad 4. |
-| [`U7_isoparametrico_gauss/`](U7_isoparametrico_gauss/) | U7 | Formulación isoparamétrica, Jacobiano, cuadratura de Gauss. |
-| [`U8_mallado_gid/`](U8_mallado_gid/) | U8 | Mallado y estudios de convergencia con GiD. Actividad 5. |
-| [`U9_3d_ansys/`](U9_3d_ansys/) | U9 | Sólidos 3D y axisimétricos con ANSYS. Actividad 6. |
+| [`U1_mecanica_medio_continuo/`](U01_mecanica_medio_continuo/) | U1 | Cinemática, tensión, deformación, elasticidad lineal, PTV. Actividad 1. |
+| [`U2_algebra_matricial_octave/`](U02_algebra_matricial_octave/) | U2 | Álgebra matricial, sistemas Ax=b, integración numérica, primeros programas en Octave. |
+| [`U3_ame_cerchas/`](U03_ame_cerchas/) | U3 | Análisis Matricial de Estructuras (AME), cercha plana en Octave. Actividad 2. |
+| [`U4_residuos_ponderados_poisson/`](U04_residuos_ponderados_poisson/) | U4 | Ecuación de Poisson, método de residuos ponderados (Galerkin). Actividad 3. |
+| [`U5_barra_1d_ptv/`](U05_barra_1d_ptv/) | U5 | Elemento finito 1D a partir del PTV, barra axial, convergencia. |
+| [`U6_cst_q4/`](U06_cst_q4/) | U6 | Elementos CST (triangular) y Q4 (rectangular). Actividad 4. |
+| [`U7_isoparametrico_gauss/`](U07_isoparametrico_gauss/) | U7 | Formulación isoparamétrica, Jacobiano, cuadratura de Gauss. |
+| [`U8_mallado_gid/`](U08_mallado_gid/) | U8 | Mallado y estudios de convergencia con GiD. Actividad 5. |
+| [`U9_3d_ansys/`](U09_3d_ansys/) | U9 | Sólidos 3D y axisimétricos con ANSYS. Actividad 6. |
 | [`U10_investigacion/`](U10_investigacion/) | U10 | Taller integrador y artículo de investigación. |
 | [`docs/`](docs/) | — | Resumen del sílabo y notas generales del curso. |
 
